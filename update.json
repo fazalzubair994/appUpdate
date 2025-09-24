@@ -1,14 +1,4 @@
 {
-  "courses": {
-    "lastUpdated": "2025-09-24T08:10:00Z",
-    "version": 5
-  },
-  "books": {
-    "lastUpdated": "2025-09-22T11:30:00Z",
-    "version": 3
-  },
-  "notes": {
-    "lastUpdated": "2025-09-20T07:00:00Z",
-    "version": 8
-  }
+  "MetaData":"2025-09-24",
+   "UiData":"2025-09-24"
 }
