@@ -1,0 +1,26 @@
+{
+  "banners": [
+    {
+      "id": "tip-001",
+      "type": "tip",
+      "image": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/banners/tip1.png",
+      "link": "https://docs.ustaadtyping.com/docs/intro",
+      "active": true,
+      "showOnce": false,
+      "specificMachine": false,
+      "machines": [],
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "offer-ali-lab",
+      "type": "ad",
+      "image": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/banners/offer.png",
+      "link": "https://ustaadtyping.com/offer",
+      "active": true,
+      "showOnce": true,
+      "specificMachine": true,
+      "machines": ["MACHINE-ID-1", "MACHINE-ID-2"]
+    }
+  ]
+}
